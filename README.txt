@@ -5,7 +5,7 @@ Instructions:
 	1) Download Processing:
 	https://processing.org/
     
-	2) Ensure all files are in a directory named "spacefire".
+	2) Ensure all files are in a directory named "diver".
     
 	3) Open any .pde file.
     
