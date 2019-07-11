@@ -14,3 +14,5 @@ Instructions:
 Controls:
     wasd to move
     space to jump
+    mouse button to aim / fire
+    hold down longer to throw farther
