@@ -1,5 +1,4 @@
 //Apr 11 2016
-//Amanda Chan | ISMA 
 
 
 import java.util.Iterator;
